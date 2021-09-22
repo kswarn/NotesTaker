@@ -39,7 +39,7 @@ export const appPages: AppPage[] = [
   },
   {
     title: 'Reminders',
-    url: '/page/Outbox',
+    url: '/page/Reminders',
     iosIcon: paperPlaneOutline,
     mdIcon: paperPlaneSharp,
     notes: [],
@@ -71,7 +71,7 @@ export const appPages: AppPage[] = [
   },
   {
     title: 'Todo',
-    url: '/page/Spam',
+    url: '/page/Todo',
     iosIcon: warningOutline,
     mdIcon: warningSharp,
     notes: [],
